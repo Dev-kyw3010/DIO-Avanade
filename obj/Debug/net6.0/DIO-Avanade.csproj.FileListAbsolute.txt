@@ -1,0 +1,15 @@
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/DIO-Avanade
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/DIO-Avanade.deps.json
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/DIO-Avanade.runtimeconfig.json
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/DIO-Avanade.dll
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/ref/DIO-Avanade.dll
+/home/devkim/Documentos/GitHub/DIO-Avanade/bin/Debug/net6.0/DIO-Avanade.pdb
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.csproj.AssemblyReference.cache
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.GeneratedMSBuildEditorConfig.editorconfig
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.AssemblyInfoInputs.cache
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.AssemblyInfo.cs
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.csproj.CoreCompileInputs.cache
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.dll
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/ref/DIO-Avanade.dll
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.pdb
+/home/devkim/Documentos/GitHub/DIO-Avanade/obj/Debug/net6.0/DIO-Avanade.genruntimeconfig.cache
